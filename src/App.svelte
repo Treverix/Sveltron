@@ -13,7 +13,7 @@
 	}
 </style>
 
-<h1>Hello <span>{name}</span>!</h1>
+<h1>Hello XXX <span>{name}</span>!</h1>
 <p>We are using Node.js version {process.versions.node},</p>
 <p>Chromium version {process.versions.chrome}</p>
 <p>and Electron version {process.versions.electron}.</p>

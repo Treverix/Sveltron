@@ -2,10 +2,12 @@
 
 This is a boilerplate for [Svelte](https://svelte.dev) using [ElectronJS](https://electronjs.com/), with SASS as preprocessor.
 
+It is based on Blade67's [Sveltron](https://github.com/Blade67/Sveltron)
+
 To create a new project based on this boilerplate:
 
 ```bash
-git clone https://github.com/Blade67/Sveltron
+git clone https://github.com/Treverix/Sveltron
 ```
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
@@ -44,10 +46,3 @@ The app is designed for quick prototyping using Svelte, thus building the app is
 Electron [[X]](https://electronjs.org) <br>
 Svelte [[X]](https://svelte.dev) <br>
 Node-Sass [[X]](https://www.npmjs.com/package/node-sass) <br>
-
-
-## Socal media
-
-Twitter [[X]](https://twitter.com/Blade67470) <br>
-Reddit [[X]](https://www.reddit.com/user/Blade67470) <br>
-Discord `Blade#6667`
